@@ -9649,7 +9649,7 @@
    <tile gid="1231"/>
   </data>
  </layer>
- <layer name="CollisionWater" width="40" height="24">
+ <layer name="CollisionsWater" width="40" height="24">
   <data>
    <tile gid="0"/>
    <tile gid="0"/>
